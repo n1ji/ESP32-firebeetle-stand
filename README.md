@@ -1,2 +1,7 @@
-# ESP32-firebeetle-stand
-this is a stand for a specific version of ESP32 which i used for my 2025 Personal Project which is named "esp32-e firebeetle". This is going to have no license because i said so
+# ESP32 FireBeetle Stand
+
+A stand for a specific version of the ESP32 (FireBeetle) board, made for my 2025 personal project "esp32-e firebeetle".
+
+## License
+
+No license is granted. All rights reserved. If you would like to use or build on this, please open an issue and ask.
