@@ -61,4 +61,4 @@ The models were designed in Tinkercad and sliced in PrusaSlicer.
 
 No license is granted. All rights reserved. If you would like to use or build on this, please open an issue and ask.
 
-Made by Plaui.
+Made by n1ji (plaui).
