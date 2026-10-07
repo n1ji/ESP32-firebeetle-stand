@@ -27,7 +27,7 @@ The BME280 also measures pressure, but the current screen shows temperature and 
 2. The sensor, button and screen are initialised.
 3. The main loop waits for a button press. On a press it reads the sensor, draws the screen and shows it for 5 seconds, then turns the screen off.
 
-The firmware is written in C++ in the Arduino IDE, using the Adafruit libraries for the sensor and display. The screen is 240×240 pixels and the interface is drawn by hand from lines, rectangles and circles.
+The firmware was written in the Arduino IDE, using the Adafruit libraries for the sensor and display. The screen is 240×240 pixels and the interface is drawn by hand from lines, rectangles and circles.
 
 > The original firmware was lost with an old laptop. Only the interface code survived as a backup, so the full source is not in this repository.
 
